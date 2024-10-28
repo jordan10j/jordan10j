@@ -1,4 +1,4 @@
-## Hola, mi nombre es Jordan Morales 👋
+## Hola, mi nombre es Jordan 👋
 ### Full-Stack Developer Backend
 
 <!--![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
